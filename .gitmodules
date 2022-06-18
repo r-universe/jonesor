@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rage"]
+	path = Rage
+	url = https://github.com/jonesor/rage
+	shallow = true
+	registered = true
+[submodule "Rcompadre"]
+	path = Rcompadre
+	url = https://github.com/jonesor/rcompadre
+	shallow = true
+	registered = true
