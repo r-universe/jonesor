@@ -1,10 +1,10 @@
 [
   {
-    "package": "Rcompadre",
+    "package": "Rage",
     "oncran": true
   },
   {
-    "package": "Rage",
+    "package": "Rcompadre",
     "oncran": true
   }
 ]
